@@ -1,4 +1,4 @@
-# project2
+# Green Market
 
 ## Project setup
 ```
